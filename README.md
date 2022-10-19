@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Mert</h1>
 
-I'm a 22 years old Business Administration Student at Dokuz Eylul University. Currently, I'm having a major on Management Information Systems. I am eager to learn Data Science subjects and I wanna work on Data Science area. 
+I'm a 22 years old Business Administration Student at Dokuz Eylul University. Currently, I'm having a major on Management Information Systems. I am eager to learn Data Science subjects and I want to improve myself in-depth of Data Science.
 
-I am interested in Web Scraping, Data Cleaning and Data Analysis. Also I want to improve myself in-depth of data science.
+Nowadays, I am interested in Web Scraping, Data Cleaning and Data Analysis.
 
 📫 How to reach me:
 
